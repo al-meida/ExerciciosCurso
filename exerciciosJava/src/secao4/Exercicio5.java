@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercicio5 {
 
 	public static void main(String[] args) {
-		
+		//Exercício uri1010
 		Scanner sc = new Scanner(System.in);
 		
 		int cPeca1, cPeca2, nPeca1, nPeca2;

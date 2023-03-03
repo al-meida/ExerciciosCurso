@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Exercicio3 {
 
 	public static void main(String[] args) {
+		//Exercício uri1007
+		
 		
 		int a, b, c, d;
 		int diferenca;

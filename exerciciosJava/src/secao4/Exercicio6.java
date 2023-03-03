@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercicio6 {
 
 	public static void main(String[] args) {
-		
+		//Exercício uri1012
 		double a, b, c, triangulo, circulo, trapezio, quadrado, retangulo;
 		
 		Scanner sc = new Scanner(System.in);
