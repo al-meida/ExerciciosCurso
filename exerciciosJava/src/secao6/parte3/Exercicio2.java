@@ -1,5 +1,5 @@
 package secao6.parte3;
-
+//Exercicio uri 1115
 import java.util.Scanner;
 
 public class Exercicio2 {
