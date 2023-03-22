@@ -1,7 +1,5 @@
 package secao8.aula69.Exercicio2.entities;
 
-import secao8.aula68.application.Program;
-
 public class Employee {
 
 	public String name;
