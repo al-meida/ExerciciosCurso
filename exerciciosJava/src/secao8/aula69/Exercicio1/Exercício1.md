@@ -15,10 +15,12 @@ classDiagram
 
 ### Exemplo (**CONSOLE**)
 
+(Entradas do usuário representadas em negrito)
+
 ----------------------- ------------------------------------
 Enter rectangle width and height:  
-3.00  
-4.00  
+**3.00**  
+**4.00**  
 AREA = 12.00  
 PERIMETER = 14.00  
 DIAGONAL = 5.00  
