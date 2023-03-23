@@ -2,6 +2,7 @@ package secao8.aula69.Exercicio2.application;
 
 import java.util.Locale;
 import java.util.Scanner;
+
 import secao8.aula69.Exercicio2.entities.Employee;
 
 public class Program {
