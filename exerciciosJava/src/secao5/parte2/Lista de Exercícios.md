@@ -119,7 +119,7 @@ Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenada
 de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o
 ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0)
 
-![Plano Cartesiano](https://static.significados.com.br/foto/x02129bb861061d1a052c592e2dc6b.png)
+![Plano Cartesiano](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnU8iSjTJHdRQsxhO1PcMQ6oLhOn1E5Ldjn6PLMMgxxA&s)
 
 Se o ponto estiver na origem, escreva a mensagem “Origem”
 
